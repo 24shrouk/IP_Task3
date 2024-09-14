@@ -5,7 +5,8 @@
 This is my project. Below is a video of the project interface you can download :
 
 
-[Watch the video](.mp4)
+[Watch the video](VID-20240915-WA0000.mp4)
+
 
 
 screenshot:
